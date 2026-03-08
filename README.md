@@ -34,4 +34,4 @@ git add README.md
 git commit -m "Update README to sound more natural"
 git push
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
